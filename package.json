@@ -1,0 +1,15 @@
+{
+  "name": "jtc",
+  "version": "1.0.0",
+  "description": "join to create.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Zycs#9999",
+  "license": "none",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
